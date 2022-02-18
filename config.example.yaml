@@ -1,0 +1,12 @@
+term:
+  current: SP22
+
+sites:
+  default:
+    download-directory: "~/Downloads"
+
+  "COMP211.002.SP22":
+    enable: true
+    download-directory: "~/Desktop/COMP 155"
+    skip-directories:
+      - "Recitation Recordings"
